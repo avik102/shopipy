@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "name": "ASUS-ZenBook-13-UM325U",
+        "price": 570,
+        "img": "./1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Dell Inspiron 15 3511 Core i3 11th Gen 256GB SSD 15.6 FHD Laptop",
+        "price": 230,
+        "img": "./2.webp"
+    },
+    {
+        "id": 3,
+        "name": "Lenovo IdeaPad D330 10IGL Intel CDC N4020 10.1 HD Touch Laptop",
+        "price": 920,
+        "img": "./3.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Acer Extensa 15 EX215-52-384M Core i3 10th Gen 15.6 FHD Laptop",
+        "price": 720,
+        "img": "./4.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Chuwi HeroBook Pro Intel Celeron N4020 14.1 inch Full HD Laptop with Windows 10",
+        "price": 520,
+        "img": "./5.jpg"
+    },
+    {
+        "id": 6,
+        "name": "HP 15s-du1114TU Celeron N4020 15.6 HD Laptop",
+        "price": 120,
+        "img": "./6.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Dell Inspiron 15 3510 Intel Celeron N4020 15.6 HD Laptop",
+        "price": 220,
+        "img": "./7.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Asus Vivobook X515MA Celeron N4020 15.6 HD Laptop",
+        "price": 420,
+        "img": "./8.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Dell Inspiron 15 3501 Core i3 10th Gen 15.6 HD Laptop with Windows 10",
+        "price": 120,
+        "img": "./9.jpg"
+    }
+]

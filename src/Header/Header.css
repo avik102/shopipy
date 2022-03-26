@@ -1,0 +1,32 @@
+.header{
+    height: 80px;
+    background-color:#1c2B35;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 140px;
+}
+a,h1{
+    text-decoration: none;
+    color: #ffff;
+    margin-left: 40px;
+    font-size: 17px;
+}
+@media only screen and (max-width:550px){
+    .header{
+        height: 80px;
+        background-color:#1c2B35;
+      padding: 0;
+      
+        display: flex;
+        justify-content:space-evenly;
+       
+    }
+    a,h1{
+        text-decoration: none;
+        color: #ffff;
+        margin-left: 10px;
+        font-size: 15px;
+    }
+
+}
